@@ -1,0 +1,15 @@
+/.node_modules
+node_modules/
+
+/.vscode
+/dist
+/build
+/coverage
+/.envgit 
+/.env
+
+ 
+# Logs
+/logs
+*.log
+py_cache__/
