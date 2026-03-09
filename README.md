@@ -135,8 +135,3 @@ This project is developed for educational purposes.
 
 Sarthak Deshmukh
 
-✅ If you want, I can also help you create:
-- **A very professional GitHub README with badges, diagrams, and screenshots**
-- **System Architecture Diagram**
-- **Project PPT for presentation**
-- **Good GitHub description + tags (important for recruiters)**.
